@@ -1,9 +1,10 @@
 {
     "name": "LethalExpansions_Modpack",
     "description": "This simple Lethal Company modpack offers many client-side QoL changes.",
-    "version_number": "0.0.2",
+    "version_number": "0.0.3",
     "website_url": "https://github.com/BoredKevin/LethalExpansions",
     "dependencies": [
+        "5Bit-VoiceHUD-1.0.4",
         "BepInEx-BepInExPack-5.4.2100",
         "BlueAmulet-LCBetterClock-1.0.3",
         "FlipMods-LetMeLookDown-1.0.1",
