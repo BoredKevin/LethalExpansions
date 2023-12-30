@@ -1,7 +1,7 @@
 {
     "name": "LethalExpansions_Modpack",
     "description": "This simple Lethal Company modpack offers many client-side QoL changes.",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "website_url": "https://github.com/BoredKevin/LethalExpansions",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
