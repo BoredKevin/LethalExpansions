@@ -6,4 +6,8 @@ This modpack is completely CLIENT-SIDE and is fully compatible with vanilla serv
 
 ## CHANGELOG
 
+### v0.0.2
+
+Set LC_FastStartup to no longer skip `LaunchMode` section allowing you to select Online or LAN
+
 ### v0.0.1
