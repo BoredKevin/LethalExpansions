@@ -1,0 +1,23 @@
+{
+    "name": "LethalExpansions_Modpack",
+    "description": "This simple Lethal Company modpack offers many client-side QoL changes.",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/BoredKevin/LethalExpansions",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "BlueAmulet-LCBetterClock-1.0.3",
+        "FlipMods-LetMeLookDown-1.0.1",
+        "PopleZoo-BetterItemScan-2.1.7",
+        "Renegades-FlashlightToggle-1.5.0",
+        "Renegades-WalkieUse-1.4.0",
+        "Rune580-LethalCompany_InputUtils-0.4.4",
+        "Ryokune-CompatibilityChecker-1.1.6",
+        "SimpleDev-Kilogrammes-1.0.0",
+        "Suskitech-AlwaysHearActiveWalkies-1.4.3",
+        "TheDeadSnake-Touchscreen-1.0.8",
+        "Woecust-NoMorePush-1.0.0",
+        "flerouwu-LC_FastStartup-1.1.0",
+        "willis81808-LethalSettings-1.1.0"
+    ]
+}
+  
