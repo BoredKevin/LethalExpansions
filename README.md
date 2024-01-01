@@ -1,4 +1,4 @@
-# LethalExpansion
+# LethalExpansions
 This simple Lethal Company modpack (not to be confused with the Lethal Expansion SDK Mod) offers many client-side QoL changes.
 Changes include better scanner, better walkie-talkies, better hotkeys, changes to the ship, and much more!
 
