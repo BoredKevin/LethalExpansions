@@ -1,7 +1,7 @@
 {
     "name": "LethalExpansions_Modpack",
-    "description": "This simple Lethal Company modpack offers many client-side QoL changes.",
-    "version_number": "0.0.3",
+    "description": "This simple Lethal Company modpack offers many client-side Quality-of-Life changes.",
+    "version_number": "0.0.4",
     "website_url": "https://github.com/BoredKevin/LethalExpansions",
     "dependencies": [
         "5Bit-VoiceHUD-1.0.4",
@@ -18,7 +18,8 @@
         "TheDeadSnake-Touchscreen-1.0.8",
         "Woecust-NoMorePush-1.0.0",
         "flerouwu-LC_FastStartup-1.1.0",
-        "willis81808-LethalSettings-1.1.0"
+        "iwotastic-IwotasticsCompassMod-1.1.0",
+        "willis81808-LethalSettings-1.2.2"
     ]
 }
   
