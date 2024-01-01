@@ -23,7 +23,7 @@ What are you waiting for? Download and Install the modpack now! Embrace the qual
 
 ## CHANGELOG
 
-### v0.0.4 1/1/Y2K24 Update! 🥳
+### v0.0.4 Y2K24 Update! 🥳
 
 Added [IwotasticsCompassMod](https://thunderstore.io/c/lethal-company/p/iwotastic/IwotasticsCompassMod/) by iwotastic
 <br>Updated [LethalSettings](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/) `1.1.0` -> `1.2.2`
