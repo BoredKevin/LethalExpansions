@@ -6,17 +6,17 @@ This modpack is completely CLIENT-SIDE and is fully compatible with vanilla serv
 
 ### Some changes include (but not limited to)
 
-**Better Item Scan**
-![BetterScanner Mod Screenshot](https://raw.githubusercontent.com/BoredKevin/LethalExpansions/main/Docs/screenshot1.png)
+**Better Item Scan**<br>
+<img src="https://raw.githubusercontent.com/BoredKevin/LethalExpansions/main/Docs/screenshot1.png" alt="BetterScanner Mod Screenshot" style="max-height: 320px;"><br>
 Makes it easier to scan a group of items to see the price of each of them listed as well as their combined total. Which has a built in smart quota calculator and UI adjustment. [Read more](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
 
-**Metric System & Voice HUD**
-![VoiceHUD & Killogrammes Mod Screenshot](https://raw.githubusercontent.com/BoredKevin/LethalExpansions/main/Docs/screenshot2.png)
-Displays the push-to-talk icon ingame when detecting voice activity ([VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)) and changes pounds (lbs) to kilogrammes (kg). ([Killogrammes](https://thunderstore.io/c/lethal-company/p/SimpleDev/Kilogrammes/))
+**Metric System & Voice HUD**<br>
+<img src="https://raw.githubusercontent.com/BoredKevin/LethalExpansions/main/Docs/screenshot2.png" alt="VoiceHUD & Killogrammes Mod Screenshot" style="max-height: 320px;"><br>
+Displays the push-to-talk icon ingame when detecting voice activity ([VoiceHUD](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)) Also changes lbs (Pounds) to kg ([Kilogrammes](https://thunderstore.io/c/lethal-company/p/SimpleDev/Kilogrammes/))
 
-**Better Clock & Compass HUD**
-![Better Clock & Compass Mod Screenshot](https://raw.githubusercontent.com/BoredKevin/LethalExpansions/main/Docs/screenshot3.png)
-Better Clock UI which is also [customizable](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)! A compass is also included.
+**Better Clock & Compass HUD**<br>
+<img src="https://raw.githubusercontent.com/BoredKevin/LethalExpansions/main/Docs/screenshot3.png" alt="Better Clock & Compass Mod Screenshot" style="max-height: 320px;"><br>
+Better Clock UI which is also [customizable](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)! A compass is included so it's easier to navigate to/from the ship!
 
 ### And many more changes..
 What are you waiting for? Download and Install the modpack now! Embrace the quality-of-life changes the modpack offers!
