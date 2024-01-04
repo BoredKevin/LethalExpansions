@@ -23,6 +23,12 @@ What are you waiting for? Download and Install the modpack now! Embrace the qual
 
 ## CHANGELOG
 
+### v0.1.2
+
+Updated [LethalSettings](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/) `1.2.2` -> `1.3.0`
+
+`^ willis81808-LethalSettings-1.3.0`
+
 ### v0.1.1
 
 Changes to [README.md](https://github.com/BoredKevin/LethalExpansions/commit/7eab85735fd886ca2d11cf5134f2716c36f14ee0)
