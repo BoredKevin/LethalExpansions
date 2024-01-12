@@ -1,3 +1,10 @@
+#### Known Issues
+
+[CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/) is deprecated, but still compatible with v49. I will currently keep this mod until a stable alternative is found.<br>
+If you encounter any issues, please report them [here](https://github.com/BoredKevin/LethalExpansions/issues)!
+
+`+ taffyko-NiceChat-1.2.4`
+
 ### v0.1.3 Little Expansion
 
 Updated [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)

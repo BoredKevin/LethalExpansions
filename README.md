@@ -4,6 +4,8 @@ Changes include better scanner, better walkie-talkies, better hotkeys, changes t
 
 This modpack is completely CLIENT-SIDE and is fully compatible with vanilla servers.
 
+**This modpack is compatible with latest version v49**
+
 ### Some changes include (but not limited to)
 
 #### Better Item Scan<br>
@@ -21,6 +23,12 @@ Better Clock UI which is also [customizable](https://thunderstore.io/c/lethal-co
 ### And many more changes..
 What are you waiting for? Download and Install the modpack now! Embrace the quality-of-life changes the modpack offers!
 
-## CHANGELOG
+## CHANGELOG 📜
 
 Moved to [Changelog](https://thunderstore.io/c/lethal-company/p/goodCompany/LethalExpansions_Modpack/changelog/)
+
+## Known Issues ⚠️
+
+[CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/) is deprecated, but still compatible with v49. I will currently keep this mod until a stable alternative is found.
+
+If you encounter any issues, please report them [here](https://github.com/BoredKevin/LethalExpansions/issues)!
