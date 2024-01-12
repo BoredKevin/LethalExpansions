@@ -7,9 +7,9 @@ If you encounter any issues, please report them [here](https://github.com/BoredK
 
 ### v0.1.3 Little Expansion
 
-Updated [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
-<br>Updated [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)
-<br>Updated [IwotasticsCompassMod](https://thunderstore.io/c/lethal-company/p/iwotastic/IwotasticsCompassMod/)
+Updated [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) `1.4.3 -> 1.4.4`
+<br>Updated [BetterItemScan](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/) `1.2.7 -> 3.0.0`
+<br>Updated [IwotasticsCompassMod](https://thunderstore.io/c/lethal-company/p/iwotastic/IwotasticsCompassMod/) `1.1.1 -> 1.2.0`
 
 `^ PopleZoo-BetterItemScan-3.0.0`<br>
 `^ Suskitech-AlwaysHearActiveWalkies-1.4.4`<br>
@@ -17,7 +17,7 @@ Updated [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Sus
 
 ### v0.1.2 Little Expansion
 
-Updated [LethalSettings](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/) `1.2.2` -> `1.3.0`
+Updated [LethalSettings](https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/) `1.2.2 -> 1.3.0`
 
 `^ willis81808-LethalSettings-1.3.0`
 
