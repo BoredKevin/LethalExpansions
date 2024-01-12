@@ -1,7 +1,7 @@
 {
     "name": "LethalExpansions_Modpack",
-    "description": "This simple Lethal Company modpack offers many client-side Quality-of-Life changes.",
-    "version_number": "0.1.3",
+    "description": "This simple Lethal Company modpack offers many client-side Quality-of-Life changes. This modpack is compatible with v49",
+    "version_number": "0.1.4",
     "website_url": "https://github.com/BoredKevin/LethalExpansions",
     "dependencies": [
         "5Bit-VoiceHUD-1.0.4",

@@ -1,3 +1,8 @@
+### v0.1.4 Chatter Update
+
+Added [NiceChat](https://thunderstore.io/c/lethal-company/p/taffyko/NiceChat/) by taffyko<br>
+Lowered the BetterClock HUD to make the compass more visible (currently a temporary workaround)
+
 #### Known Issues
 
 [CompatibilityChecker](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/) is deprecated, but still compatible with v49. I will currently keep this mod until a stable alternative is found.<br>
